@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Agent Interview Platform",
+  "description": "AI-powered multi-agent interview, resume analysis, roadmap generation, and billing platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
